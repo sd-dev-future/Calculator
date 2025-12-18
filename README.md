@@ -3,3 +3,4 @@
 - Clear/reset functionality.
 - Handles decimal numbers.
 
+## A calculator that perform ✖️ ➗ ➖ ➕
